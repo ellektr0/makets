@@ -1,0 +1,27 @@
+aside {
+    width: 34%;
+    float: right;
+}
+nav {
+    width: 25%;
+    float: left;
+    margin-left: -100%;
+}
+main {
+    float: left;
+    margin-left: 25%;
+    width: 75%;
+}
+footer {
+    clear: left;
+}
+p {
+    padding: 0 10px;
+}
+#content {
+    margin-right: 34%;
+}
+header {
+    position: sticky;
+    top: 0;
+}

@@ -1,0 +1,21 @@
+header {
+    background-color: brown;
+}
+#content {
+    background-color: blue;
+}
+aside {
+    background-color: aqua;
+}
+nav {
+    background-color: blueviolet;
+}
+footer {
+    background-color: darkorange;
+}
+p {
+    text-align: justify;
+}
+* {
+    margin: 0;
+}

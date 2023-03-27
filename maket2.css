@@ -1,0 +1,13 @@
+header {
+    min-width: 600px;
+    height: 150px;
+}
+
+main {
+    min-width: 350px;
+    margin-left: 250px;
+}
+nav {
+    width: 250px;
+    float: left;
+}
